@@ -3,4 +3,18 @@
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register">REGISTER</string>
+
+    <string name="todo">TODO</string>
+    <string name="FirstName">FirstName</string>
+    <string name="email">email</string>
+    <string name="enter_phone_number">enter phone number</string>
+    <string name="back_to_login">back to login</string>
+    <string name="registerr">register</string>
+
+    <string name="login">LOGIN</string>
+    <string name="Register">register</string>
+
+    <string name="Login">login</string>
+    <string name="Password">password</string>
 </resources>
