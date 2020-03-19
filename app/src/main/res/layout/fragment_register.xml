@@ -3,7 +3,11 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.example.android.navigation.TitleFragment">
-
+    <data>
+    <variable
+        name="registerViewmodel"
+        type="com.example.caking.RegisterViewModel" />
+    </data>
     <androidx.constraintlayout.widget.ConstraintLayout
         android:id="@+id/loginConstraint"
         android:layout_width="match_parent"
